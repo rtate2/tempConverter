@@ -1,3 +1,7 @@
 body {
-    background-color: lightcoral;
+    background-color: lightslategray;
+}
+
+h1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
