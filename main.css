@@ -1,7 +1,64 @@
 body {
-    background-color: lightslategray;
+    background-color: rgb(185, 181, 181);
 }
 
-h1 {
+.heading {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 0%;
+}
+
+.entireCard {
+    justify-content: center;
+    text-align: center;
+    margin: 100px 350px;
+    border: 2px solid black;
+}
+
+.inputSection {
+    text-align: left;
+    border: 2px solid black;
+    background-color: rgb(185, 181, 181);
+}
+
+#finalResults {
+    border: 2px solid black;
+    width: 100px;
+    height: 100px;
+    padding: 15px;
+    margin: 25px;
+    flex-grow: 2;
+    font-size: xx-large;
+    text-align: center;
+    background-color: white;
+}
+
+#tempInput {
+    height: 100px;
+    width: 100px;
+    font-size: xx-large;
+    text-align: center;
+    margin: 5px;
+    flex-grow: 1;
+}
+
+.tempButtons {
+    margin: 5px;
+}
+
+#helpWrap {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+
+#convertedTemp {
+    flex-grow: 1;
+}
+
+.btn-danger {
+    margin: 10px;
+}
+
+.entireCard {
+    background-color: white;
 }
