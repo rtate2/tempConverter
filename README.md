@@ -5,7 +5,7 @@
 Use this application to convert temperature (Celsius to Fahrenheit and vice-versa).
 
 ## Screenshots
-![Temperature Converter Preview]()
+![Temperature Converter Preview](https://raw.githubusercontent.com/rtate2/tempConverter/master/screenshots/Screen%20Shot%202019-09-29%20at%204.48.00%20PM.png)
 
 ## How to run
 * Clone down this project
